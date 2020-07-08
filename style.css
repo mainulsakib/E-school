@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:0px ;
 }
 .top{
     background-color:#F0FFF0;
@@ -93,7 +94,8 @@ height: 120px;
 .footer{
     background: #282531;
     width: 100%;
-    height:auto-fit;
+    height:100%;
+    margin-bottom: 0px;
 
 }
 .footer p{
@@ -105,4 +107,9 @@ height: 120px;
     
 color: #CDCDCD;
 margin-bottom: 0px;
+}
+footer{
+    background: #282531;
+    color: #CDCDCD;
+
 }
